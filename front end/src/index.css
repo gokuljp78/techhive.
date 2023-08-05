@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.align{
+    margin-left: 10%;
+    margin-top: 15% ;
+}
+.align1{
+    margin-left: 50%;
+    
+}
+.cd{
+    text-align: center;
+    
+}
